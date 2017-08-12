@@ -1,0 +1,11 @@
+{
+    "server": {
+        "port": 7258
+    },
+    "db": {
+        "path": "mongodb://localhost:27017/CHAT"
+    },
+    "jwt": {
+        "secret": "uath-secret"
+    }
+}
