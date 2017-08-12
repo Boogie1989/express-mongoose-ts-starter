@@ -3,9 +3,9 @@
         "port": 7258
     },
     "db": {
-        "path": "mongodb://localhost:27017/CHAT"
+        "path": "mongodb://localhost:27017"
     },
     "jwt": {
-        "secret": "uath-secret"
+        "secret": "auth-secret"
     }
 }
